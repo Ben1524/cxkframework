@@ -1,0 +1,7 @@
+2024-11-24 12:39:15	system	[INFO]	LoadConfig: /home/cxk/Work/cxkframework/bin/conf/log.yml ok
+2024-11-24 12:39:15	system	[INFO]	LoadConfig: /home/cxk/Work/cxkframework/bin/conf/server.yml ok
+2024-11-24 12:39:15	system	[INFO]	name: cxk/1.1
+keepalive: 1
+timeout: 1000
+address:
+  - 0.0.0.0:8080

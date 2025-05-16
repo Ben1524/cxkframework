@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+0240a34838f225ed61535c41b25fdaef cxk/http/http11_parser.rl.cpp
+42d8f434b235e9ab67ad20f84c3399aa cxk/http/httpclient_parser.rl.cpp
+da46b2bfeb1df99e21834cd64a6c21f8 cxk/uri.rl.cpp

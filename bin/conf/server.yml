@@ -1,0 +1,21 @@
+servers:
+    - address: ["0.0.0.0:8080"]
+      keepalive: 1
+      timeout: 1000
+      name: cxk/1.1
+      accept_worker: accept
+      process_worker: io
+      type: http
+    - address: ["0.0.0.0:8072"]
+      keepalive: 1
+      timeout: 1000
+      name: cxk-ws/1.1
+      accept_worker: accept
+      process_worker: io
+      type: ws
+    - address: ["0.0.0.0:8061"]
+      timeout: 1000
+      name: cxk-rock/1.1
+      accept_worker: accept
+      process_worker: io
+      type: rock

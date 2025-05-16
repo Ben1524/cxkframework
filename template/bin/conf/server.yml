@@ -1,0 +1,8 @@
+http_servers:
+    - address: ["0.0.0.0:8080"]
+      keepalive: 1
+      timeout: 1000
+      name: cxk/1.1
+      accept_worker: accept
+      process_worker: io
+      type: http
