@@ -162,9 +162,8 @@ void query_database() {
 我们欢迎广大开发者参与项目贡献，共同推动 CXK 框架的发展。
 
 ## 📮 联系方式
-- 📧 邮箱：cxk-team@example.com
-- 💬 交流群：[QQ群号] / [Telegram频道]
-- 🌐 官网：https://cxk-framework.org
+- 📧 邮箱：wy17674094293@163.com
+- 💬 QQ：3327869834
 
 如果你在使用过程中遇到问题或有任何建议，欢迎通过以上方式与我们联系。
 
